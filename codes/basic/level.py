@@ -1,0 +1,6 @@
+class Level:
+    def __init__(self):
+        ...
+
+    def run(self):
+        ...
